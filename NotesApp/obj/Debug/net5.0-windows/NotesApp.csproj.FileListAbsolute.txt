@@ -1,0 +1,17 @@
+C:\Users\tambe\source\repos\NotesApp\bin\Debug\net5.0-windows\NotesApp.exe
+C:\Users\tambe\source\repos\NotesApp\bin\Debug\net5.0-windows\NotesApp.deps.json
+C:\Users\tambe\source\repos\NotesApp\bin\Debug\net5.0-windows\NotesApp.runtimeconfig.json
+C:\Users\tambe\source\repos\NotesApp\bin\Debug\net5.0-windows\NotesApp.runtimeconfig.dev.json
+C:\Users\tambe\source\repos\NotesApp\bin\Debug\net5.0-windows\NotesApp.dll
+C:\Users\tambe\source\repos\NotesApp\bin\Debug\net5.0-windows\ref\NotesApp.dll
+C:\Users\tambe\source\repos\NotesApp\bin\Debug\net5.0-windows\NotesApp.pdb
+C:\Users\tambe\source\repos\NotesApp\obj\Debug\net5.0-windows\NotesApp.Form1.resources
+C:\Users\tambe\source\repos\NotesApp\obj\Debug\net5.0-windows\NotesApp.csproj.GenerateResource.cache
+C:\Users\tambe\source\repos\NotesApp\obj\Debug\net5.0-windows\NotesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tambe\source\repos\NotesApp\obj\Debug\net5.0-windows\NotesApp.AssemblyInfoInputs.cache
+C:\Users\tambe\source\repos\NotesApp\obj\Debug\net5.0-windows\NotesApp.AssemblyInfo.cs
+C:\Users\tambe\source\repos\NotesApp\obj\Debug\net5.0-windows\NotesApp.csproj.CoreCompileInputs.cache
+C:\Users\tambe\source\repos\NotesApp\obj\Debug\net5.0-windows\NotesApp.dll
+C:\Users\tambe\source\repos\NotesApp\obj\Debug\net5.0-windows\ref\NotesApp.dll
+C:\Users\tambe\source\repos\NotesApp\obj\Debug\net5.0-windows\NotesApp.pdb
+C:\Users\tambe\source\repos\NotesApp\obj\Debug\net5.0-windows\NotesApp.genruntimeconfig.cache
